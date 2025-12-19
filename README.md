@@ -1,18 +1,23 @@
 # eagle-bubblewrap
-Run legacy Eagle 7.7.0 in a state-of-the-art Linux environment with
+Run Cadsoft Eagle 7.7.0 in a up-to-date Linux distribution with
 [bubblewrap](https://wiki.archlinux.org/title/Bubblewrap).
 
 
 ## Preface
 Who knows not the good old times with an easy to handle Cadsoft Eagle.
-In the mean time Cadsoft is Autodesk and the new licensing model challenges.
-Therefore the old Eagle should run on a current linux distribution.
+In the mean time Cadsoft is Autodesk and the new licensing model is 
+challenging. Therefore the old Eagle should run on a current linux 
+distribution forever.
 
 
 ## Prerequisite
 * [bubblewrap](https://wiki.archlinux.org/title/Bubblewrap)
 * [Eagle 7.7.0](https://community.element14.com/products/pcbprototyping/m/files/149125)
 * [Ubuntu 14.04](https://releases.ubuntu.com/14.04/) rootfs
+
+
+## Tested
+* [Linux Mint 22.2](https://linuxmint.com/edition.php?id=322)
 
 
 ## Install
