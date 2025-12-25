@@ -163,7 +163,7 @@ bwrap \
 The usage of the sandbox environment forces no direct access accept the
 paths mentioned with ```--bind```. If an additional folder is needed add
 it after the line ```--bind $HOME $HOME \```. Following syntax uses
-```--bind``` _--bind \<os\> \<sandbox\>_
+```--bind``` _--bind \<os\> \<sandbox\>_.
 
 4) Finally start eagle
 ```bash
