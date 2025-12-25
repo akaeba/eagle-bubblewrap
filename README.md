@@ -6,7 +6,7 @@ Run Cadsoft Eagle 7.7.0 in a up-to-date Linux distribution with
 ## Preface
 Who knows not the good old times with an easy to handle Cadsoft Eagle.
 In the mean time Cadsoft is Autodesk and the new licensing model is
-challenging. Therefore the old Eagle should run on a current linux
+challenging. Therefore the old Eagle should run on a current Linux
 distribution forever.
 
 
@@ -124,7 +124,7 @@ export QT_XKB_CONFIG_ROOT=/usr/share/X11/xkb  # forward keyboard
 
 ## Starter
 
-After the installation of EAGLE we need now ro register the command
+After the installation of EAGLE we need now to register the command
 ```eagle```.
 
 1) create file with name ```eagle```
@@ -170,5 +170,5 @@ it after the line ```--bind $HOME $HOME \```. Following syntax uses
 eagle
 ```
 
-<center> <img src="eagle-bubblewrap.png" height="35%" width="35%" alt="Eagle runs" title="Linux Mint 22.2 with Eagle 7.7.0"/> </center>
+<center> <img src="eagle-bubblewrap.png" height="100%" width="100%" alt="Eagle runs" title="Linux Mint 22.2 with Eagle 7.7.0"/> </center>
 
