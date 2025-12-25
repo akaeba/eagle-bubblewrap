@@ -170,5 +170,5 @@ it after the line ```--bind $HOME $HOME \```. Following syntax uses
 eagle
 ```
 
-<center> <img src="eagle-bubblewrap.png" height="100%" width="100%" alt="Eagle runs" title="Linux Mint 22.2 with Eagle 7.7.0"/> </center>
+<center> <img src="eagle-bubblewrap.png" height="75%" width="75%" alt="Eagle runs" title="Linux Mint 22.2 with Eagle 7.7.0"/> </center>
 
