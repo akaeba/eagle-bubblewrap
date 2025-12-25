@@ -5,8 +5,8 @@ Run Cadsoft Eagle 7.7.0 in a up-to-date Linux distribution with
 
 ## Preface
 Who knows not the good old times with an easy to handle Cadsoft Eagle.
-In the mean time Cadsoft is Autodesk and the new licensing model is 
-challenging. Therefore the old Eagle should run on a current linux 
+In the mean time Cadsoft is Autodesk and the new licensing model is
+challenging. Therefore the old Eagle should run on a current linux
 distribution forever.
 
 
@@ -161,8 +161,8 @@ bwrap \
 ```
 
 The usage of the sandbox environment forces no direct access accept the
-paths mentioned with ```--bind```. If an additional folder is needed add 
-it after the line ```--bind $HOME $HOME \```. Following syntax uses 
+paths mentioned with ```--bind```. If an additional folder is needed add
+it after the line ```--bind $HOME $HOME \```. Following syntax uses
 ```--bind``` _--bind <os> <sandbox>_
 
 4) Finally start eagle
